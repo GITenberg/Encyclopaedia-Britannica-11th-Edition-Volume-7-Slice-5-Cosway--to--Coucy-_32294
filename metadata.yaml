@@ -1,0 +1,26 @@
+_repo: Encyclopaedia-Britannica-11th-Edition-Volume-7-Slice-5-Cosway--to--Coucy-_32294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Encyclopedias and dictionaries'
+- !lcc 'AE'
+title: "Encyclopaedia Britannica, 11th Edition, \"Cosway, Richard\" to \"Coucy, Le\
+  \ Châtelain de\"\r\nVolume 7, Slice 5"
+url: http://www.gutenberg.org/ebooks/32294
